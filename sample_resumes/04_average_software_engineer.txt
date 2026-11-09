@@ -1,0 +1,24 @@
+VIKRAM PATEL
+Email: vikram.patel@example.com | Phone: +91 97654 32109 | Location: Ahmedabad, India
+
+PROFESSIONAL SUMMARY
+Software Engineer with 3.0 years of experience developing web applications and backend services using Java, SQL, and Spring Boot. Familiar with agile processes and cloud deployment basics.
+
+EDUCATION
+- Bachelor of Engineering in Information Technology, Gujarat Technological University (Tier 3), CGPA: 7.2/10.0 (2017 - 2021)
+
+SKILLS
+- Languages: Java, Python (Basic), SQL
+- Frameworks: REST APIs, Spring, Git
+- Core: Data Structures, Problem Solving
+
+EXPERIENCE
+Software Engineer | Infotech Solutions, Ahmedabad | 2021 - Present (3.0 years)
+- Developed and maintained RESTful microservices for internal billing modules.
+- Authored SQL queries and unit tests; participated in daily agile standups.
+- Assisted DevOps teams with basic Docker container builds and Git merges.
+
+PROJECTS & DETAILS
+- 3 projects completed | 1 certification (Oracle Java SE Associate)
+- Career Gap: 0 months | Notice Period: 60 days | Expected Salary: 9 LPA
+

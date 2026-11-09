@@ -1,0 +1,26 @@
+SANDEEP MENON
+Email: sandeep.menon@example.com | Phone: +91 98888 77777 | Location: Bengaluru, India
+
+EXECUTIVE SUMMARY
+Senior Principal Architect and Engineering Leader with 14.0 years of experience designing enterprise distributed systems, cloud migrations, and mission-critical microservice architectures across multinational product companies.
+
+EDUCATION
+- Bachelor of Technology (B.Tech) in Computer Science, IIT Bombay (Tier 1), CGPA: 8.7/10.0 (2006 - 2010)
+
+CORE COMPETENCIES
+- Architecture: System Design, Microservices, CI/CD, REST APIs, Distributed Systems
+- Technologies: Java, Python, Docker, Kubernetes, AWS, SQL, Linux, Git
+- Leadership: Leadership, Agile, Stakeholder Management, Team Lead
+
+CAREER HIGHLIGHTS
+Principal Architect | Global Cloud Enterprise, Bengaluru | 2018 - Present (6.0 years)
+- Led the architectural migration of monolith systems to microservices on AWS and Kubernetes.
+- Managed 4 engineering directors and 35+ developers across multiple global sites.
+
+Lead Engineer | HighScale Product Corp | 2010 - 2018 (8.0 years)
+- Designed high-throughput messaging frameworks in Java and C++ with sub-millisecond latency.
+
+METRICS
+- 12 production enterprise projects | 4 certifications (AWS Certified Solutions Architect - Professional)
+- Notice Period: 60 days | Employment Gap: 0 months | Expected Salary: 55 LPA
+

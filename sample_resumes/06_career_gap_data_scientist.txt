@@ -1,0 +1,27 @@
+POOJA REDDY
+Email: pooja.reddy@example.com | Phone: +91 95432 10987 | Location: Bengaluru, India
+
+PROFESSIONAL PROFILE
+Accomplished Data Scientist with 5.0 years of experience in predictive analytics and applied machine learning. Took a planned 14-month career break for maternity and caregiving, during which I maintained technical currency via open source contributions and certifications. Ready for immediate re-entry.
+
+EDUCATION
+- Master of Science (M.S.) in Data Science, Bits Pilani (Tier 1), CGPA: 8.8/10.0 (2016 - 2018)
+- Bachelor of Technology (B.Tech) in Computer Science, Tier 2, CGPA: 8.4/10.0 (2012 - 2016)
+
+TECHNICAL EXPERTISE
+- Core: Python, Machine Learning, SQL, Statistics, Pandas, Scikit-Learn, Deep Learning, AWS
+- Tools: Docker, Git, Tableau, Data Visualization
+
+EXPERIENCE
+Data Scientist | Enterprise Tech Labs, Bengaluru | 2018 - 2023 (5.0 years)
+- Built regression and classification models predicting customer churn with 88% ROC-AUC.
+- Designed automated feature stores using SQL and Pandas on AWS cloud.
+- Spearheaded 5 customer intelligence implementations.
+
+Career Break & Upskilling | 2023 - 2024 (14 months gap)
+- Completed DeepLearning.AI Specialization and refreshed LLM fine-tuning techniques.
+
+SUMMARY
+- 5 enterprise projects | 2 certifications | 0 publications
+- Employment Gap: 14 months | Notice Period: 0 days (Immediate) | Expected Salary: 20 LPA
+

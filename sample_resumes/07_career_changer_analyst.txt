@@ -1,0 +1,22 @@
+MANOJ KUMAR
+Email: manoj.kumar@example.com | Phone: +91 96543 21098 | Location: Chennai, India
+
+SUMMARY
+Mechanical Engineer with 3.5 years of manufacturing operations experience, transitioning into Data Analytics. Proactive self-starter with completed bootcamps in SQL, Python, and Power BI.
+
+EDUCATION
+- Bachelor of Engineering (B.E.) in Mechanical Engineering, Anna University (Tier 2), CGPA: 7.4/10.0 (2016 - 2020)
+
+SELF-TAUGHT & ACQUIRED SKILLS
+- Analytics Toolkit: SQL, Excel, Power BI, Python, Data Visualization, Problem Solving
+
+EXPERIENCE
+Operations Analyst | AutoMech Industries, Chennai | 2020 - 2024 (3.5 years)
+- Transitioned production logging from physical logbooks to automated Excel sheets.
+- Wrote basic SQL queries to track inventory variance and scrap rates.
+- Completed an end-to-end self-study capstone project analyzing e-commerce sales trends.
+
+PROJECTS & CERTS
+- 2 projects completed | 1 certification (Coursera Data Analytics Certificate)
+- Career Gap: 0 months | Notice Period: 30 days | Expected Salary: 7.5 LPA
+

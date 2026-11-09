@@ -1,0 +1,122 @@
+[
+  {
+    "candidate_index": 0,
+    "jaccard_agreement": 0.667,
+    "top_shap_features": [
+      "Role Skill Match Ratio",
+      "Employment Gap Duration",
+      "Years of Experience",
+      "Expected Salary (LPA)",
+      "Technical Projects Count"
+    ],
+    "top_lime_features": [
+      "Role Skill Match Ratio",
+      "Education Level (Degree)",
+      "Employment Gap Duration",
+      "Technical Projects Count",
+      "Expected Salary (LPA)"
+    ],
+    "common_features": [
+      "Expected Salary (LPA)",
+      "Employment Gap Duration",
+      "Technical Projects Count",
+      "Role Skill Match Ratio"
+    ]
+  },
+  {
+    "candidate_index": 1,
+    "jaccard_agreement": 0.667,
+    "top_shap_features": [
+      "Role Skill Match Ratio",
+      "Years of Experience",
+      "Education Level (Degree)",
+      "Expected Salary (LPA)",
+      "Technical Projects Count"
+    ],
+    "top_lime_features": [
+      "Role Skill Match Ratio",
+      "Education Level (Degree)",
+      "Employment Gap Duration",
+      "Technical Projects Count",
+      "Expected Salary (LPA)"
+    ],
+    "common_features": [
+      "Education Level (Degree)",
+      "Technical Projects Count",
+      "Role Skill Match Ratio",
+      "Expected Salary (LPA)"
+    ]
+  },
+  {
+    "candidate_index": 2,
+    "jaccard_agreement": 0.429,
+    "top_shap_features": [
+      "Role Skill Match Ratio",
+      "Years of Experience",
+      "Academic GPA",
+      "Technical Projects Count",
+      "Degree: Data Science"
+    ],
+    "top_lime_features": [
+      "Role Skill Match Ratio",
+      "Education Level (Degree)",
+      "Years of Experience",
+      "Employment Gap Duration",
+      "Technical Projects Count"
+    ],
+    "common_features": [
+      "Years of Experience",
+      "Technical Projects Count",
+      "Role Skill Match Ratio"
+    ]
+  },
+  {
+    "candidate_index": 3,
+    "jaccard_agreement": 0.667,
+    "top_shap_features": [
+      "Years of Experience",
+      "Role Skill Match Ratio",
+      "Academic GPA",
+      "Technical Projects Count",
+      "Education Level (Degree)"
+    ],
+    "top_lime_features": [
+      "Education Level (Degree)",
+      "Role Skill Match Ratio",
+      "Years of Experience",
+      "Employment Gap Duration",
+      "Academic GPA"
+    ],
+    "common_features": [
+      "Education Level (Degree)",
+      "Years of Experience",
+      "Role Skill Match Ratio",
+      "Academic GPA"
+    ]
+  },
+  {
+    "candidate_index": 4,
+    "jaccard_agreement": 1.0,
+    "top_shap_features": [
+      "Role Skill Match Ratio",
+      "Years of Experience",
+      "Employment Gap Duration",
+      "Education Level (Degree)",
+      "Expected Salary (LPA)"
+    ],
+    "top_lime_features": [
+      "Role Skill Match Ratio",
+      "Years of Experience",
+      "Education Level (Degree)",
+      "Employment Gap Duration",
+      "Expected Salary (LPA)"
+    ],
+    "common_features": [
+      "Education Level (Degree)",
+      "Employment Gap Duration",
+      "Role Skill Match Ratio",
+      "Years of Experience",
+      "Expected Salary (LPA)"
+    ]
+  }
+]

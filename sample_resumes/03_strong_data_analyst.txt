@@ -1,0 +1,28 @@
+ROHIT SHARMA
+Email: rohit.sharma@example.com | Phone: +91 99887 76655 | Location: Hyderabad, India
+
+PROFESSIONAL SUMMARY
+Analytical and detail-oriented Senior Data Analyst with 4.5 years of experience delivering actionable business intelligence, KPI dashboards, and statistical models. Proven expertise in SQL query optimization, Power BI dashboard design, and stakeholder communication.
+
+EDUCATION
+- Bachelor of Technology (B.Tech) in Computer Science, JNTU Hyderabad (Tier 2), CGPA: 8.1/10.0 (2016 - 2020)
+
+CORE COMPETENCIES
+- Analytics & BI: SQL, Power BI, Tableau, Excel, Reporting, Data Visualization
+- Programming & Statistics: Python, Pandas, Statistics, Statistical Analysis
+- Soft Skills: Communication, Problem Solving, Requirements Gathering
+
+WORK EXPERIENCE
+Senior Data Analyst | FinServe Analytics, Hyderabad | 2022 - Present (2.5 years)
+- Designed and operationalized 25+ automated Power BI reports tracking $50M in operational revenues.
+- Wrote complex SQL queries, window functions, and stored procedures across multi-terabyte data warehouses.
+- Partnered with product and marketing leadership to define key retention metrics and funnel drop-off analysis.
+
+Data Analyst | Global Infotech, Hyderabad | 2020 - 2022 (2.0 years)
+- Automated monthly recurring financial reconciliation in Excel and Python, saving 40 engineering hours monthly.
+- Created executive Tableau visualizations for quarterly board meetings.
+
+ACCOMPLISHMENTS & METRICS
+- Completed 6 analytics projects and holds 2 certifications (Microsoft Certified: Power BI Data Analyst Associate, Google Data Analytics).
+- Notice Period: 15 days | Career Gap: 0 months | Expected Salary: 14 LPA
+

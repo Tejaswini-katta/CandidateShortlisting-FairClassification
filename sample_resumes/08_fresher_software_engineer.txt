@@ -1,0 +1,23 @@
+KAVYA NAIR
+Email: kavya.nair@example.com | Phone: +91 94321 09876 | Location: Kochi, India
+
+CAREER OBJECTIVE
+High-achieving Computer Science graduate (2024 pass-out) seeking an entry-level Software Engineer position. Strong foundation in algorithms, modern object-oriented programming, and cloud technologies.
+
+EDUCATION
+- Bachelor of Technology (B.Tech) in Computer Science & Engineering, NIT Calicut (Tier 1), CGPA: 9.1/10.0 (2020 - 2024)
+
+TECHNICAL COMPETENCIES
+- Languages: Java, Python, SQL, C++
+- Foundations: Data Structures, System Design, REST APIs, Git, Docker, Linux
+- Soft Skills: Communication, Problem Solving
+
+ACADEMIC PROJECTS & INTERNSHIPS
+- Software Engineering Intern (6 months), FinCloud: Developed RESTful microservices in Java and Spring Boot.
+- Open Source Capstone Project: Built an asynchronous distributed task queue in Python and Redis.
+- Hackathon Winner: 1st place in National Smart India Hackathon for algorithmic logistics routing.
+
+KEY DETAILS
+- 4 academic and hackathon projects | 2 certifications (AWS Certified Cloud Practitioner, HackerRank 5-Star Java)
+- Years of Experience: 0.0 yrs (Fresher) | Notice Period: 0 days | Expected Salary: 10 LPA
+

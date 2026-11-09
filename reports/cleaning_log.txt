@@ -1,0 +1,17 @@
+Initial raw record count: 15000
+Removed 25 duplicate records. New record count: 14975
+Standardizing and parsing 'years_experience' from string/numeric format.
+Standardizing degree fields to canonical categories.
+Standardizing city and location names.
+Normalizing casing and spacing for skills strings.
+Imputed 593 missing 'gpa_or_percentage' with median (7.80). Added 'gpa_is_missing' indicator.
+Imputed 505 missing 'college_tier' with mode ('Tier 3').
+Imputed 1042 missing 'current_company_type' with mode ('MNC').
+Imputed 597 missing 'expected_salary_lpa' with role-specific median.
+Rescaled 5 entries with GPA > 10.0 to 10-point scale.
+Capped 5 GPA outliers within bounds [5.0, 10.0].
+Fixed 5 inconsistent experience vs age records.
+Capped 806 experience outliers within bounds [0.0, 35.0].
+Capped 854 expected salary outliers within bounds [2.5, 75.0] LPA.
+Final cleaned dataset shape: (14975, 23)
+Data cleaning completed successfully.

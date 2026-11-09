@@ -1,0 +1,36 @@
+ARAVIND VENKATESH
+Email: aravind.v@example.com | Phone: +91 98765 43210 | Location: Bengaluru, India
+
+PROFESSIONAL SUMMARY
+Distinguished Senior Data Scientist with 6.5 years of industry experience designing, building, and deploying end-to-end machine learning and deep learning solutions in production Product environments. Proven track record of architecting scalable NLP and predictive models delivering $2.4M annualized business impact.
+
+EDUCATION
+- Master of Technology (M.Tech) in Computer Science, IIT Madras (Tier 1), CGPA: 9.2/10.0 (2017 - 2019)
+- Bachelor of Technology (B.Tech) in Computer Science, NIT Trichy (Tier 1), CGPA: 8.9/10.0 (2013 - 2017)
+
+CORE COMPETENCIES & TECHNICAL SKILLS
+- Programming & Libraries: Python, Pandas, Scikit-Learn, PyTorch, TensorFlow, SQL
+- Machine Learning & AI: Machine Learning, Deep Learning, NLP, Statistics, Data Visualization
+- Cloud & MLOps: AWS (SageMaker, S3, EC2), Docker, Git, CI/CD, MLflow
+- Databases: PostgreSQL, MongoDB
+
+PROFESSIONAL EXPERIENCE
+Senior Data Scientist | FinTech Innovations, Bengaluru | 2021 - Present (3.5 years)
+- Spearheaded the development of a real-time transformer-based fraud detection pipeline processing 45M transactions daily.
+- Optimized gradient-boosted decision trees and neural networks, improving precision by 24% while maintaining sub-15ms latency.
+- Mentored a high-performing squad of 5 junior data scientists and ML engineers.
+
+Data Scientist | Analytics Matrix, Bengaluru | 2019 - 2021 (3.0 years)
+- Developed customer lifetime value and churn prediction models utilizing XGBoost and survival analysis on AWS.
+- Created interactive dashboards using Tableau and Matplotlib for executive leadership.
+
+PROJECTS & PUBLICATIONS
+- 7 enterprise production projects completed successfully.
+- Published 2 technical papers in peer-reviewed IEEE conference proceedings on neural ranking and representation learning.
+- 3 recognized certifications including AWS Certified Machine Learning - Specialty and DeepLearning.AI Specialization.
+
+ADDITIONAL DETAILS
+- Notice Period: 30 days
+- Employment Gap: 0 months
+- Expected Compensation: 28 LPA
+

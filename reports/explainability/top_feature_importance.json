@@ -1,0 +1,102 @@
+[
+  {
+    "feature": "role_skill_match_score",
+    "importance": 0.08059921860694885,
+    "rank": 1
+  },
+  {
+    "feature": "years_experience",
+    "importance": 0.06564648449420929,
+    "rank": 2
+  },
+  {
+    "feature": "skill_sql",
+    "importance": 0.041696351021528244,
+    "rank": 3
+  },
+  {
+    "feature": "expected_salary_lpa",
+    "importance": 0.02941400744020939,
+    "rank": 4
+  },
+  {
+    "feature": "projects_count",
+    "importance": 0.027168473228812218,
+    "rank": 5
+  },
+  {
+    "feature": "skill_aws",
+    "importance": 0.0234692320227623,
+    "rank": 6
+  },
+  {
+    "feature": "skill_communication",
+    "importance": 0.019116496667265892,
+    "rank": 7
+  },
+  {
+    "feature": "education_level_ordinal",
+    "importance": 0.018677305430173874,
+    "rank": 8
+  },
+  {
+    "feature": "skill_python",
+    "importance": 0.01805327832698822,
+    "rank": 9
+  },
+  {
+    "feature": "employment_gap_months",
+    "importance": 0.016020819544792175,
+    "rank": 10
+  },
+  {
+    "feature": "skill_rest_apis",
+    "importance": 0.015667365863919258,
+    "rank": 11
+  },
+  {
+    "feature": "tfidf_projects",
+    "importance": 0.015427075326442719,
+    "rank": 12
+  },
+  {
+    "feature": "skill_data_structures",
+    "importance": 0.013808272778987885,
+    "rank": 13
+  },
+  {
+    "feature": "tfidf_problem solving",
+    "importance": 0.013791066594421864,
+    "rank": 14
+  },
+  {
+    "feature": "tfidf_high",
+    "importance": 0.013427499681711197,
+    "rank": 15
+  },
+  {
+    "feature": "tfidf_core",
+    "importance": 0.013338805176317692,
+    "rank": 16
+  },
+  {
+    "feature": "tfidf_software",
+    "importance": 0.013294385746121407,
+    "rank": 17
+  },
+  {
+    "feature": "skill_git",
+    "importance": 0.013051893562078476,
+    "rank": 18
+  },
+  {
+    "feature": "skill_system_design",
+    "importance": 0.013014783151447773,
+    "rank": 19
+  },
+  {
+    "feature": "gpa_or_percentage",
+    "importance": 0.012842286378145218,
+    "rank": 20
+  }
+]

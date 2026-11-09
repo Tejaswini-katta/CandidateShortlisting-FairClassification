@@ -1,0 +1,4 @@
+Strategy,Mean_CV_F1,Mean_CV_Recall,Mean_CV_Precision,Mean_CV_ROC_AUC
+None (Unweighted),0.3145,0.216,0.5787,0.7365
+class_weight='balanced',0.509,0.6875,0.4041,0.7367
+SMOTE (Training Fold Only),0.4993,0.6646,0.3999,0.7289

@@ -1,0 +1,22 @@
+ANANYA SEN
+Email: ananya.sen@example.com | Phone: +91 93456 78901 | Location: Kolkata, India
+
+SUMMARY
+Business Analyst with 2.8 years of experience facilitating agile software delivery, gathering functional requirements, and synthesizing metrics into Excel and Power BI dashboards.
+
+EDUCATION
+- Bachelor of Commerce (B.Com), Calcutta University (Tier 2), Percentage: 68% (2018 - 2021)
+
+KEY COMPETENCIES
+- Skills: Excel, SQL, Power BI, Agile, Jira, Communication, Requirements Gathering, Process Mapping
+
+EXPERIENCE
+Business Analyst | Zenith Consulting, Kolkata | 2021 - Present (2.8 years)
+- Conducted user interviews and documented business requirement documents (BRD) and user stories in Jira.
+- Built monthly performance tracking trackers using advanced Excel and Power BI.
+- Liaised between technical developers and business clients to facilitate sprint planning.
+
+DETAILS
+- 2 projects completed | 1 certification (Scrum Fundamentals Certified)
+- Career Gap: 0 months | Notice Period: 30 days | Expected Salary: 8.5 LPA
+

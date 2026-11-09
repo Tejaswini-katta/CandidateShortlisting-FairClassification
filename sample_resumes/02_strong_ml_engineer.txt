@@ -1,0 +1,30 @@
+NEHA KULKARNI
+Email: neha.kulkarni@example.com | Phone: +91 91234 56789 | Location: Pune, India
+
+PROFESSIONAL SUMMARY
+Results-driven Machine Learning Engineer with 5.0 years of hands-on expertise building production MLOps pipelines, distributed deep learning architectures, and scalable inference microservices. Strong foundation in containerization, continuous integration, and Kubernetes model serving.
+
+EDUCATION
+- Bachelor of Engineering (B.E.) in Information Technology, Pune Institute of Computer Technology (PICT, Tier 2), CGPA: 8.6/10.0 (2015 - 2019)
+
+CORE SKILLS & TECH STACK
+- Languages: Python, SQL, C++, Bash
+- ML & Deep Learning: Machine Learning, Deep Learning, PyTorch, TensorFlow, Scikit-Learn
+- MLOps & Infrastructure: Docker, Kubernetes, AWS, MLOps, Git, CI/CD, MLflow, FastAPI
+- Data Systems: Kafka, Redis, PostgreSQL
+
+EXPERIENCE
+Machine Learning Engineer | CloudScale Systems, Pune | 2021 - Present (3.0 years)
+- Designed and maintained automated model training and validation pipelines on AWS using Kubernetes and Kubeflow.
+- Containerized over 15 production microservices with Docker, slashing inference latency from 120ms to 28ms.
+- Implemented real-time model drift detection and automated rollback mechanisms.
+
+Associate Software Engineer | DataCorp Solutions, Pune | 2019 - 2021 (2.0 years)
+- Built feature engineering pipelines in Python and SQL for tabular customer datasets.
+- Deployed REST APIs using FastAPI for asynchronous inference serving.
+
+KEY ACCOMPLISHMENTS
+- Completed 8 production-grade projects.
+- Certified: AWS Certified Solutions Architect - Associate, CKA (Certified Kubernetes Administrator).
+- Notice Period: 30 days | Expected Salary: 22 LPA | Career Gap: 0 months
+
